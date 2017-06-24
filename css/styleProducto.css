@@ -125,3 +125,11 @@ img {
     font-weight:600;
     margin-bottom: 3px;
 }
+
+.direccion {
+    padding-left: 5px;
+    display: flex;
+    font-size: 0.7em;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 0px;
+}
