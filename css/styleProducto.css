@@ -21,6 +21,24 @@ body{
     padding-left: 8px;
 }
 
+.gridnd {
+    margin: 0 auto;
+    max-width: 700px;
+    width: 100%;
+    margin-top: 25px;
+    padding-right: 8px;
+    padding-left: 8px;
+    opacity: 0.5;
+}
+
+.gridnd:before {
+content: "No disponible";
+color:red;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.8em;
+}
+
+
 .row {
     display: flex;
     width: 100%;
