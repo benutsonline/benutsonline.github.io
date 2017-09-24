@@ -1,9 +1,50 @@
+body{
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+}
 
 * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     box-sizing: border-box;
+}
+
+.header{
+
+    background-color: #7B1FA2;
+    /*height: 20px;*/
+    width: 100%;
+    margin-bottom: 6px;
+
+    color: white;
+    padding-top: 2.4px;
+
+
+    /*display: flex;*/
+}
+
+.envioGratis{
+    font-family: 'Roboto', sans-serif;
+    font-weight:600;
+    font-size: 0.7em;
+    width: 100%; /*75% Before */
+    text-align: right;
+    padding-right: 5px; /* Added new  */
+}
+
+.envioDetalles{
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.7em;
+    width: 100%; /* 25 Previously */
+    /*text-align: left;*/
+    padding-left: 5px;
+    text-align: right; /*left previously */
+    padding-bottom: 2.4px; /* Added new  */
+    padding-right: 5px; /* Added new  */
+
+
 }
 
 .grid {
