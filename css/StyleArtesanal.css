@@ -62,11 +62,11 @@ body{
     margin-top: 25px;
     padding-right: 8px;
     padding-left: 8px;
-    opacity: 0.5;
+    opacity: 0.4;
 }
 
 .gridnd:before {
-content: "El siguiente producto no está disponible: ";
+content: "Siguiente producto no disponible:";
 color:red;
     font-family: 'Roboto', sans-serif;
     font-size: 0.8em;
