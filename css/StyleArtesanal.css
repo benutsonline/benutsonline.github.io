@@ -65,9 +65,8 @@ body{
     opacity: 0.5;
 }
 
-.gridnd:after {
-left:50%;
-content: "No disponible";
+.gridnd:before {
+content: "El siguiente producto no está; disponible: ";
 color:red;
     font-family: 'Roboto', sans-serif;
     font-size: 0.8em;

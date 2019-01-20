@@ -32,7 +32,7 @@ body{
 }
 
 .gridnd:before {
-content: "El siguiente producto no est&#225; disponible: ";
+content: "El siguiente producto no está; disponible: ";
 color:red;
     font-family: 'Roboto', sans-serif;
     font-size: 0.8em;
