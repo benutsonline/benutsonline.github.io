@@ -66,11 +66,12 @@ body{
 }
 
 .gridnd:after {
+left:50%;
 content: "No disponible";
 color:red;
     font-family: 'Roboto', sans-serif;
     font-size: 0.8em;
-    text-align: center;
+
 }
 
 .row {
