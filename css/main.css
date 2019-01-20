@@ -68,6 +68,12 @@ body{
     width: 50%;
 }
 
+.categorynd {
+
+    width: 50%;
+    opacity: 0.5;
+}
+
 .categoryImage{
     height: 83%;
     width: 100%;
